@@ -1,7 +1,8 @@
 # okhttp-utils-master
- * 在https://github.com/hongyangAndroid/okhttp-utils基础上进行微调
+ * 在https://github.com/hongyangAndroid/okhttp-utils 基础上进行微调
  * 增加注释说明
  * 增加在线服务器测试文件上传和多文件上传(只为方便测试，不要恶意攻击，否则关闭接口)
+ * 修正http请求取消by tag用法
 
 # okhttp-utils
 对okhttp的封装类，okhttp见：[https://github.com/square/okhttp](https://github.com/square/okhttp).
