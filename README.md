@@ -1,4 +1,8 @@
 # okhttp-utils-master
+
+##增加okhttp离线cookie缓存设置，请看下面demo
+https://github.com/bajian/LeagueSharpLoginDemo
+
  * 在https://github.com/hongyangAndroid/okhttp-utils 基础上进行微调
  * 增加注释说明
  * 增加在线服务器测试文件上传和多文件上传(只为方便测试，不要恶意攻击，否则关闭接口)
